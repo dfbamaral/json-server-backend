@@ -1,33 +1,85 @@
 {
-  "projects": [
+  "finance": [
     {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "id": "abc123def456ghi7",
+      "data_input": "2024-02-19",
+      "input": "Income",
+      "category": "Salary",
+      "value": 3000,
+      "notes": "Monthly salary"
     },
     {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "id": "jkl890mno123pqr4",
+      "data_input": "2024-02-18",
+      "input": "Expenses",
+      "category": "Food",
+      "value": 50,
+      "notes": "Groceries"
     },
     {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "id": "stu567vwx890yz01",
+      "data_input": "2024-02-17",
+      "input": "Income",
+      "category": "Other type of Income",
+      "value": 200,
+      "notes": "Freelance work"
     },
     {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "id": "234bcd567efg8901",
+      "data_input": "2024-02-16",
+      "input": "Expenses",
+      "category": "Car/Transportation",
+      "value": 80,
+      "notes": "Fuel refill"
+    },
+    {
+      "id": "hij456klm789nopq",
+      "data_input": "2024-02-15",
+      "input": "Income",
+      "category": "Other type of Income",
+      "value": 100,
+      "notes": "Selling items online"
+    },
+    {
+      "id": "rst123uvw456xyz7",
+      "data_input": "2024-02-14",
+      "input": "Expenses",
+      "category": "Education",
+      "value": 200,
+      "notes": "Textbooks"
+    },
+    {
+      "id": "890efg123hij456k",
+      "data_input": "2024-02-13",
+      "input": "Income",
+      "category": "Other type of Income",
+      "value": 150,
+      "notes": "Consulting service"
+    },
+    {
+      "id": "lmn678opq901rst2",
+      "data_input": "2024-02-12",
+      "input": "Expenses",
+      "category": "Food",
+      "value": 30,
+      "notes": "Dinner with friends"
+    },
+    {
+      "id": "789nop234qrs567tu",
+      "data_input": "2024-02-11",
+      "input": "Income",
+      "category": "Other type of Income",
+      "value": 100,
+      "notes": "Part-time job"
+    },
+    {
+      "id": "vwx345yz678901ab",
+      "data_input": "2024-02-10",
+      "input": "Expenses",
+      "category": "Home",
+      "value": 200,
+      "notes": "Home maintenance"
     }
   ]
+  
 }
